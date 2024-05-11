@@ -1,12 +1,8 @@
-
-┓ ┏┓┏┓┏┓  ┳┳                ┏┓  ┏┓            ┓  ┏┓               
-┃ ┗┓┃┫┣┫  ┃┃┏┏┓┏┓┏┓┏┓┏┳┓┏┓  ┣╋  ┃┃┏┓┏┏┓┏┏┏┓┏┓┏┫  ┃┓┏┓┏┓┏┓┏┓┏┓╋┏┓┏┓
-┗┛┗┛┗┛┗┛  ┗┛┛┗ ┛ ┛┗┗┻┛┗┗┗   ┗┻  ┣┛┗┻┛┛┗┻┛┗┛┛ ┗┻  ┗┛┗ ┛┗┗ ┛ ┗┻┗┗┛┛ 
+**LS08 Username & Password Generator**
                                                                   
 
 ==================================
 
-This is a simple Python script that generates random usernames and passwords using the LS08 ASCII art.
 
 Requirements
 ------------
