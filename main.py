@@ -1,7 +1,5 @@
 import random
 import string
-
-# Define your ASCII art here
 ascii_art = """
 
 ┓ ┏┓┏┓┏┓  ┳┳                ┏┓  ┏┓            ┓  ┏┓               
@@ -21,7 +19,7 @@ def generate_password():
     return password
 
 def main():
-    print(ascii_art)  # Print ASCII art
+    print(ascii_art)
     while True:
         username = generate_username()
         password = generate_password()
